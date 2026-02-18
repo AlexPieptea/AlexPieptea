@@ -6,15 +6,25 @@ I adapt quickly to new environments and work efficiently both independently and 
 
 My goal is to build a career as a business software developer, creating solutions that bridge technology and real-world business needs. While I am still developing my expertise, I am committed to constant improvement and hands-on learning. 
 
-Skils:
+**Skills:** 
+
   -C/C++
+  
   -Python
+  
   -Linux/Bash
+  
   -Java
+  
   -SQL 
 
-Hobbies: 
+**Hobbies:** 
+
   -Tea drinking
+  
   -Reading
+  
   -Fitness & gym training
+  
   -Motorbikes
+  
