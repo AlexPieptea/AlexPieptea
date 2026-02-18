@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**AlexPieptea/AlexPieptea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a Bachelor's degree in Informatics and Economics, with a strong interest in the intersection of technology and business. I am passionate about learning, continuously improving my technical skills, and growing both academically and personally.
 
-Here are some ideas to get you started:
+I adapt quickly to new environments and work efficiently both independently and in team settings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to build a career as a business software developer, creating solutions that bridge technology and real-world business needs. While I am still developing my expertise, I am committed to constant improvement and hands-on learning. 
+
+Skils:
+  -C/C++
+  -Python
+  -Linux/Bash
+  -Java
+  -SQL 
+
+Hobbies: 
+  -Tea drinking
+  -Reading
+  -Fitness & gym training
+  -Motorbikes
