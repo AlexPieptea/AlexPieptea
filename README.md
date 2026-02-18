@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently pursuing a Bachelor's degree in Informatics and Economics, with a strong interest in the intersection of technology and business. I am passionate about learning, continuously improving my technical skills, and growing both academically and personally.
+I am Alex, a student based in Romania, currently pursuing a Bachelor's degree in Informatics and Economics, with a strong interest in the intersection of technology and business. I am passionate about learning, continuously improving my technical skills, and growing both academically and personally.
 
 I adapt quickly to new environments and work efficiently both independently and in team settings.
 
